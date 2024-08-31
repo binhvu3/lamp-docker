@@ -1,1 +1,1 @@
-# simple-LAMP-server
+# LAMP Server
